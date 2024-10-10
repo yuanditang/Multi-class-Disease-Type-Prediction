@@ -1,1 +1,0 @@
-# Multi-class-Disease-Type-Prediction
