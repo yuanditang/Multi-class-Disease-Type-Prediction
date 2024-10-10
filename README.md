@@ -39,11 +39,11 @@ The project requires the following dependencies:
 
 The f24_workshop2_demo.ipynb notebook contains the following steps:
 
-	1.	Data Loading: Load the `diagnosed_cbc_data.csv` dataset.
-	2.	Data Cleaning: Handle missing values and perform any necessary data preprocessing.
-	3.	Exploratory Data Analysis (EDA): Visualize the distribution of CBC values and analyze relationships between features.
-	4.	Modeling: Train a classification model (e.g., decision trees, random forests) to predict medical diagnoses based on CBC test results.
-	5.	Evaluation: Evaluate model performance using accuracy, precision, recall, and other metrics.
+1. Data Loading: Load the `diagnosed_cbc_data.csv` dataset.
+2. Data Cleaning: Handle missing values and perform any necessary data preprocessing.
+3. Exploratory Data Analysis (EDA): Visualize the distribution of CBC values and analyze relationships between features.
+4. Modeling: Train a classification model (e.g., decision trees, random forests) to predict medical diagnoses based on CBC test results.
+5. Evaluation: Evaluate model performance using accuracy, precision, recall, and other metrics.
 
 
 ## Results
